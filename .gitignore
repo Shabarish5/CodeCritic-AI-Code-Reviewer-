@@ -103,7 +103,6 @@ Desktop.ini
 
 # Unnecessary files for running the program
 eslint.config.js
-README.md
 src/assets/react.svg
 
 # Backend specific
